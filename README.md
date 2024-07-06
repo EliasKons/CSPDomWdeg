@@ -1,4 +1,4 @@
-# CSVDomWdeg
+# CSPDomWdeg
 
 I got the python files from here: https://github.com/aimacode/aima-python/tree/master.
 
