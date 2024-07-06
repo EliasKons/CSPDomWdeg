@@ -1,0 +1,39 @@
+﻿Semester,Subject,Professor,Difficult (TRUE/FALSE),Lab (TRUE/FALSE)
+1,Linear Algebra,Professor 1,TRUE,FALSE
+1,Discrete Mathematics,Professor 2,FALSE,FALSE
+1,Introduction to Informatics and Telecommunications,Professor 3,FALSE,FALSE
+1,Logic Design,Professor 4,FALSE,FALSE
+1,Introduction to Programming,Professor 5,FALSE,TRUE
+3,Analysis II,Professor 6,TRUE,FALSE
+3,Probability and Statistics,Professor 7,FALSE,FALSE
+3,Object-Oriented Programming,Professor 8,FALSE,TRUE
+3,Signals and Systems,Professor 9,TRUE,FALSE
+3,Circuits and Systems Laboratory,Professor 10,FALSE,FALSE
+5,Principles of Programming Languages,Professor 11,FALSE,FALSE
+5,Graphics I,Professor 12,FALSE,FALSE
+5,Numerical Analysis,Professor 13,TRUE,FALSE
+5,Applied Mathematics,Professor 6,FALSE,FALSE
+5,Database Systems Implementation,Professor 14,TRUE,TRUE
+5,Operating Systems,Professor 15,FALSE,FALSE
+5,Computer Architecture II,Professor 16,TRUE,FALSE
+5,Artificial Intelligence,Professor 17,FALSE,TRUE
+5,Digital Systems Design - VHDL,Professor 4,FALSE,FALSE
+5,Telecommunication Networks,Professor 18,FALSE,FALSE
+5,Digital Signal Processing,Professor 19,FALSE,FALSE
+5,Communication Networks II,Professor 20,FALSE,FALSE
+7,Algorithmic Operations Research,Professor 21,FALSE,FALSE
+7,Advanced Algorithm Topics,Professor 22,FALSE,FALSE
+7,Special Topics in Theoretical Informatics: Structural Bioinformatics Algorithms,Professor 2,FALSE,FALSE
+7,Bioinformatics Algorithms,Professor 23,FALSE,FALSE
+7,Advanced Scientific Computing,Professor 13,FALSE,FALSE
+7,Computational Complexity,Professor 1,FALSE,FALSE
+7,Software Development for Algorithmic Problems,Professor 23,FALSE,FALSE
+7,Software Development for Information Systems,Professor 14,FALSE,FALSE
+7,Human-Machine Interaction,Professor 24,FALSE,FALSE
+7,ICT in Education,Professor 25,FALSE,FALSE
+7,Artificial Intelligence II,Professor 17,TRUE,TRUE
+7,Structure and Institutions of the European Union,Professor 26,FALSE,FALSE
+7,VLSI Circuit Design,Professor 27,FALSE,FALSE
+7,Special Topics in Communication and Signal Processing: Reinforcement Learning and Stochastic Games,Professor 28,FALSE,FALSE
+7,Software Development for Network and Telecommunications Systems,Professor 20,FALSE,FALSE
+7,Informatics Systems and e-Accessibility for Students with Disabilities,Professor 10,FALSE,FALSE
